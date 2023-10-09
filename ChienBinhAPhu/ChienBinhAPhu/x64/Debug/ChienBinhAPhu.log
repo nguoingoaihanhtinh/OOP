@@ -1,0 +1,6 @@
+﻿  Source.cpp
+F:\Hoc\Hoc\OOP\ChienBinhAPhu\ChienBinhAPhu\Source.cpp(50,36): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+F:\Hoc\Hoc\OOP\ChienBinhAPhu\ChienBinhAPhu\Source.cpp(51,22): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+F:\Hoc\Hoc\OOP\ChienBinhAPhu\ChienBinhAPhu\Source.cpp(99,36): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+F:\Hoc\Hoc\OOP\ChienBinhAPhu\ChienBinhAPhu\Source.cpp(148,66): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+  ChienBinhAPhu.vcxproj -> F:\Hoc\Hoc\OOP\ChienBinhAPhu\x64\Debug\ChienBinhAPhu.exe

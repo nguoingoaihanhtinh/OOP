@@ -1,0 +1,6 @@
+﻿  Source.cpp
+F:\Hoc\Hoc\OOP\EmkolaNhaTho\EmkolaNhaTho\Source.cpp(5,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+F:\Hoc\Hoc\OOP\EmkolaNhaTho\EmkolaNhaTho\Source.cpp(17,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+F:\Hoc\Hoc\OOP\EmkolaNhaTho\EmkolaNhaTho\Source.cpp(23,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+F:\Hoc\Hoc\OOP\EmkolaNhaTho\EmkolaNhaTho\Source.cpp(24,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  EmkolaNhaTho.vcxproj -> F:\Hoc\Hoc\OOP\EmkolaNhaTho\x64\Debug\EmkolaNhaTho.exe
