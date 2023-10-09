@@ -1,0 +1,6 @@
+﻿  Source.cpp
+F:\Hoc\Hoc\OOP\PayToWinExperience\PayToWinExperience\Source.cpp(42,22): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+F:\Hoc\Hoc\OOP\PayToWinExperience\PayToWinExperience\Source.cpp(49,22): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+F:\Hoc\Hoc\OOP\PayToWinExperience\PayToWinExperience\Source.cpp(125,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\Hoc\Hoc\OOP\PayToWinExperience\PayToWinExperience\Source.cpp(126,28): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  PayToWinExperience.vcxproj -> F:\Hoc\Hoc\OOP\PayToWinExperience\x64\Debug\PayToWinExperience.exe
