@@ -1,0 +1,10 @@
+﻿  Source.cpp
+F:\Hoc\Hoc\OOP\RolePlaying\RolePlaying\Source.cpp(52,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Hoc\Hoc\OOP\RolePlaying\RolePlaying\Source.cpp(72,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Hoc\Hoc\OOP\RolePlaying\RolePlaying\Source.cpp(79,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Hoc\Hoc\OOP\RolePlaying\RolePlaying\Source.cpp(89,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Hoc\Hoc\OOP\RolePlaying\RolePlaying\Source.cpp(103,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Hoc\Hoc\OOP\RolePlaying\RolePlaying\Source.cpp(104,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Hoc\Hoc\OOP\RolePlaying\RolePlaying\Source.cpp(119): warning C4715: 'init': not all control paths return a value
+F:\Hoc\Hoc\OOP\RolePlaying\RolePlaying\Source.cpp(179): warning C4715: 'Guild::is_all_dead': not all control paths return a value
+  RolePlaying.vcxproj -> F:\Hoc\Hoc\OOP\RolePlaying\x64\Debug\RolePlaying.exe

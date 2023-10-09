@@ -1,0 +1,4 @@
+﻿  Source2.cpp
+C:\Hoc\OOP\SapXepNoiChung\ThuVienSach\ThuVienSach\Source2.cpp(58,37): warning C4244: '=': conversion from 'double' to 'long', possible loss of data
+C:\Hoc\OOP\SapXepNoiChung\ThuVienSach\ThuVienSach\Source2.cpp(111): warning C4715: 'ThuVien::init': not all control paths return a value
+  ThuVienSach.vcxproj -> C:\Hoc\OOP\SapXepNoiChung\ThuVienSach\x64\Debug\ThuVienSach.exe

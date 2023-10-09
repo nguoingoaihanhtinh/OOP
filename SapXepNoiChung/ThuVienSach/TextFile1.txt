@@ -1,0 +1,21 @@
+cout << "nhap vao ten nsx: ";
+	string nsx;
+	getline(cin, nsx);
+	bool consx = false;
+	for (int i = 0; i < n; i++)
+	{
+		if (nsx == arrSgk[i].NSX())
+		{
+			arrSgk[i].Xuat();
+			consx = true;
+		}
+		else if (nsx == arrStk[i].NSX())
+		{
+			arrStk[i].Xuat();
+			consx = true;
+		}
+	}
+	if (consx == false)
+	{
+		cout << "Khong co nha san xuat! \n";
+	}
