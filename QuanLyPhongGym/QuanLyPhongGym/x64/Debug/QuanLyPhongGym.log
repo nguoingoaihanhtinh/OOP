@@ -1,0 +1,3 @@
+﻿  Source.cpp
+F:\Hoc\Hoc\OOP\QuanLyPhongGym\QuanLyPhongGym\Source.cpp(112): warning C4715: 'Gym::init': not all control paths return a value
+  QuanLyPhongGym.vcxproj -> F:\Hoc\Hoc\OOP\QuanLyPhongGym\x64\Debug\QuanLyPhongGym.exe
